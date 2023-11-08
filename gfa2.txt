@@ -1,0 +1,22 @@
+mkdir dir1
+mkdir dir2
+mkdir dir3
+ls
+cd dir2
+mkdir dir4
+mkdir dir5
+mkdir dir6
+ls
+cd dir6
+mkdir dir7
+mkdir dir8
+mkdir dir9
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+exit
+
